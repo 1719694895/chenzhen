@@ -6,3 +6,4 @@ git官网：1719694895 18398804536as
 git地址：https://github.com/1719694895/chenzhen.git
 仓库：czcode
 访问名：czhen
+git 命令：git commit --amend --no --edit 将修改的文件追加到文件去
