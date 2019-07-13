@@ -8,3 +8,5 @@ git地址：https://github.com/1719694895/chenzhen.git
 访问名：czhen
 git 命令：git commit --amend --no --edit 将修改的文件追加到文件去
 git push git push 就是把文件上传到gitHub上面
+git 命令：git commit --amend --no --edit 将修改的文件追加到文件去
+
