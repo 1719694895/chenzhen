@@ -1,6 +1,7 @@
 https://spring.io/guides       --spring插件网址
 ctrl+P                          --查看方法所传递的参数
 ctrl+alt+L                      --格式化代码
+ctrl+shift+f12                  --最大屏显示
 当注解与Spring boot 启动项同级或下级的时候不需要添加包扫描即可访问
 git官网：1719694895 电话号码加as
 git地址：https://github.com/1719694895/chenzhen.git
