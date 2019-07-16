@@ -2,6 +2,10 @@ https://spring.io/guides       --spring插件网址
 ctrl+P                          --查看方法所传递的参数
 ctrl+alt+L                      --格式化代码
 ctrl+shift+f12                  --最大屏显示
+ctrl+shift+N                    --快速搜索文件
+alt+insert                      --getset方法
+ctrl+alt+v                      --实例化对象赋值
+shift+回车                       快速换行，光标在中间都可
 当注解与Spring boot 启动项同级或下级的时候不需要添加包扫描即可访问
 git官网：1719694895 电话号码加as
 git地址：https://github.com/1719694895/chenzhen.git
@@ -10,4 +14,8 @@ git地址：https://github.com/1719694895/chenzhen.git
 git 命令：git commit --amend --no --edit 将修改的文件追加到文件去
 git push git push 就是把文件上传到gitHub上面
 git 命令：git commit --amend --no --edit 将修改的文件追加到文件去
+方法传参的过程中参数超过2个就封装成对象进行传入
+http://Manong.life
+http://localhost:4527/callback
+https://github.com/login/oauth/authorize
 
