@@ -16,6 +16,9 @@ git地址：https://github.com/1719694895/chenzhen.git
 git 命令：git commit --amend --no --edit 将修改的文件追加到文件去
 git push git push 就是把文件上传到gitHub上面
 git 命令：git commit --amend --no --edit 将修改的文件追加到文件去
+
+git pull 将别人的代码考过来，shift+:再X退出并保存 再提交git push 不成功的时候
+
 方法传参的过程中参数超过2个就封装成对象进行传入
 **-------
 当把用户的信息放入session中的时候，浏览器会默认给我们创建一个cookie。
