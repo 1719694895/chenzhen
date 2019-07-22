@@ -14,7 +14,7 @@
 [git工具](https://git-scm.com/download)
 
 [Visual Paradigm](https://www.visual-paradigm.com)
-##数据库脚本
+##SQL
 
 CREATE TABLE `user` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
